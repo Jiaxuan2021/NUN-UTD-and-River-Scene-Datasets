@@ -1,5 +1,7 @@
-# River-Scene-Data-Set
-## Hyperspectral Underwater Target Detection Data Set
-River Scene Data Set for Hyperspectral Nearshore Underwater Target Detection 
+# Code for NUN-UTD and River-Scene-Dataset
+## Paper: Detecting Nearshore Underwater Targets with Hyperspectral Nonlinear Unmixing Autoencoder
+## Hyperspectral Underwater Target Detection Dataset
 
-### This data set will be made public soon
+A method for nearshore hyperspectral underwater target detection.
+
+### The code for NUN-UTD and the River-Scene-Dataset will be made public soon
